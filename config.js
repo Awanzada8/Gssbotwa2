@@ -3,15 +3,15 @@ const chalk = require('chalk');
 
 
 // Other
-global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
-global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
+global.link = 'https://whatsapp.com/channel/0029VaRJYnw9Bb62DfrGXw3h'
+global.linkGroup = 'https://whatsapp.com/channel/0029VaRJYnw9Bb62DfrGXw3h'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
-global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
+global.ownername = "𝄟✮͢🦋⃟≛⃝ вιℓαℓ αωαиzα∂α𝄟";
+global.owner = ['971558510406'];
+global.premium = ['971558510406'];
+global.packname = "𝄟✮͢🦋⃟≛⃝ вιℓαℓ αωαиzα∂α𝄟-+971558510406";
+global.author = "⚔️★𝆺𝅥⃝🔥⃪ͥᷟ͢⃝ 🇧𝗜𝗟𝗔𝗟 𝄟✮͢🦋⃟≛⃝🇦🇪";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
